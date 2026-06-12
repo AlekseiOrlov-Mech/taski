@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '123.123.123.123', 'kittygrammmmmmm.adrdns.com']
+ALLOWED_HOSTS = ['localhost', '123.123.123.123', 'trainexample.servemp3.com']
 
 
 # Application definition
